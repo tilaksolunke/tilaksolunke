@@ -107,12 +107,13 @@ public class TilakSolunke {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tilaksolunke&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilaksolunke&theme=tokyonight&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tilaksolunke&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Tilak's GitHub Stats"/>
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tilaksolunke&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=tilaksolunke&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tilaksolunke&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
